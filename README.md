@@ -27,7 +27,7 @@ We are sharing the project early to find out how many people want it and which c
 
 [Tanka](https://www.tanka.ai/) is an AI-powered team collaboration platform. It brings together communication, documents, and AI assistance, helping teams keep track of conversations, information, and the context behind their work.
 
-Tanka's capabilities include chat, Memo documents, email, calendars, meetings, and AI. Its team memory connects information from conversations and other work materials so AI can help retrieve context, summarize information, and prepare next steps. See the [official product overview](https://tools.tanka.ai/en/company-collaboration-software-with-ai) for more about Tanka.
+Tanka's capabilities include chat, Memo documents, email, calendars, meetings, and AI. Its team memory connects information from conversations and other work materials so AI can help retrieve context, summarize information, and prepare next steps. Visit the [official website](https://www.tanka.ai/) for more about Tanka.
 
 ## Planned CLI capabilities
 

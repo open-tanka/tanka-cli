@@ -27,7 +27,7 @@
 
 [Tanka](https://www.tanka.ai/) 是一个结合 AI 的团队协作平台，把沟通、文档与 AI 助手放在一起，帮助团队保留工作中的信息、讨论和上下文。
 
-Tanka 提供聊天、Memo 文档、邮件、日历、会议和 AI 等能力。它的团队记忆能够串联对话及其他工作资料，让 AI 帮助查找背景、总结信息和准备下一步工作。更多产品信息可查看 [Tanka 官方产品介绍](https://tools.tanka.ai/en/company-collaboration-software-with-ai)。
+Tanka 提供聊天、Memo 文档、邮件、日历、会议和 AI 等能力。它的团队记忆能够串联对话及其他工作资料，让 AI 帮助查找背景、总结信息和准备下一步工作。更多产品信息可查看 [Tanka 官网](https://www.tanka.ai/)。
 
 ## CLI 计划支持哪些能力？
 
