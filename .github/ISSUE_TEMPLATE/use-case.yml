@@ -1,0 +1,46 @@
+name: Share a CLI use case / 分享 CLI 使用场景
+description: Tell us what you want to do with Tanka from your terminal.
+title: "[Use case] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tanka CLI is an unofficial community project in early development.
+        Share the workflow you need to help us prioritize the first CLI release.
+        Tanka CLI 是开发中的非官方社区项目，欢迎分享你的需求。
+  - type: textarea
+    id: workflow
+    attributes:
+      label: What would you like to do? / 你希望完成什么？
+      description: Describe the task and why a terminal workflow would help.
+    validations:
+      required: true
+  - type: dropdown
+    id: capabilities
+    attributes:
+      label: Which capabilities do you need? / 需要哪些能力？
+      multiple: true
+      options:
+        - Chat / 聊天
+        - Documents / 文档
+        - AI
+        - Contacts and groups / 联系人与群组
+        - Calendar / 日历
+        - Files, meetings, or polls / 文件、会议或投票
+        - Other / 其他
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Operating system / 操作系统
+      multiple: true
+      options:
+        - macOS
+        - Linux
+        - Windows
+  - type: textarea
+    id: integration
+    attributes:
+      label: Scripts or integrations / 脚本或集成场景
+      description: Any tools, scripts, or workflows you would connect to the CLI?
