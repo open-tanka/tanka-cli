@@ -10,6 +10,7 @@
   <a href="https://github.com/open-tanka/tanka-cli/stargazers"><img src="https://img.shields.io/github/stars/open-tanka/tanka-cli?style=flat&label=Stars%20%E2%86%92%201%2C000" alt="GitHub Star：目标 1,000" /></a>
   <img src="https://img.shields.io/badge/status-in%20development-orange" alt="开发中" />
   <img src="https://img.shields.io/badge/project-unofficial-blue" alt="非官方社区项目" />
+  <a href="https://discord.gg/U37HzChGa"><img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white" alt="加入 Discord 社区" /></a>
 </p>
 
 <p align="center"><a href="README.md">English</a> · 简体中文</p>
@@ -55,6 +56,7 @@ Star 用于帮助我们判断实际需求、安排开发优先级。版本发布
 1. **点一个 Star**，让我们知道你需要 Tanka CLI。
 2. **[分享使用场景](https://github.com/open-tanka/tanka-cli/issues/new?template=use-case.yml)**：你最想在终端里完成什么？
 3. **[参与需求讨论](https://github.com/open-tanka/tanka-cli/issues)**，告诉我们哪些工作流应该优先支持。
+4. **[加入 Discord 社区](https://discord.gg/U37HzChGa)**，交流使用场景、分享想法、关注开发进展。
 
 反馈时可以描述你需要的 Tanka 能力、使用的操作系统，以及希望完成的任务或自动化流程。
 
